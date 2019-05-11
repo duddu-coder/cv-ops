@@ -25,8 +25,8 @@ class MatrixOps:
 
 
     def vertical_ascending_matrix(self,
-                                 a=0,
-                                 b=255):
+                                  a=0,
+                                  b=255):
         """
         Creates and returns a two-dimensional square array of dimension
         `self.dim`, with elements increasing for each row, all in a row being constant.
